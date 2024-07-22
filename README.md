@@ -6,7 +6,7 @@ I am a self-taught MERN Stack Developer with a background in electronics enginee
 
 - 🌱 Currently learning advanced JavaScript and exploring new libraries.
 - 💬 Ask me about MERN stack and web development.
-- 📫 Reach me at [shahanaabdullavv@gmail.com]
+- 📫 Reach me at [shahanaabdullavv@gmail.com](shahanaabdullavv@gmail.com)
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess.
 
 ## Skills
