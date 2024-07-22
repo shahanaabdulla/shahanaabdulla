@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a self-taught MERN Stack Developer with a background in electronics engineering, currently honing my skills at Brototype institution. I love building scalable web applications and am always eager to learn more.
+I am a self-taught MERN Stack Developer with a background in electronics engineering, currently honing my skills at Brototype. I love building scalable web applications and am always eager to learn more.
 
 - 🌱 Currently learning advanced JavaScript and exploring new libraries.
 - 💬 Ask me about MERN stack and web development.
